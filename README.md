@@ -1,14 +1,16 @@
 ### Oi eu sou o Wisley, estudante de Ciências da Computação (5° Semestre)
 
 
-<div align="center">
+<div align = "center" style="display: inline_block">
   <a href="https://github.com/wisleyaraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wisleyaraujo&&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisleyaraujo&layout=demo&langs_count=7&theme=dracula"/> 
+    <img height="150px" width = "550px" src="https://github-readme-stats.vercel.app/api/wakatime?username=wisleyaraujo&theme=tokyonight"/> <br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wisleyaraujo&layout=demo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisleyaraujo&layout=demo&langs_count=7&theme=tokyonight"/> 
+ 
+ 
 </div>
-  <div align="center">
-    <img height="150px" width = "700em" src="https://github-readme-stats.vercel.app/api/wakatime?username=wisleyaraujo&theme=dracula"/>
-  </div
+ 
+   
   
     
 <div style="display: inline_block"><br>
