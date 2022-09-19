@@ -1,4 +1,4 @@
-### Oi eu sou o Wisley, estudante de Ciências da Computação (5° Semestre)
+### Desenvolvo pequenos projetos usando HTML, CSS & JavaScript
 
 
 <div align = "center" style="display: inline_block">
