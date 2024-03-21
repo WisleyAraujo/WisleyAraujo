@@ -1,4 +1,4 @@
-### Desenvolvo pequenos projetos usando HTML, CSS & JavaScript
+
 
 
 <div align = "center" style="display: inline_block">
